@@ -1,0 +1,18 @@
+body{
+    color:darkblue;
+    background:linear-gradient(#f11212 0%, #f7d516 100% );
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+#camera{
+    border:2px dashed yellow;
+    width:350px;
+    height:300px;
+}
+/*A pt in 1/72 of and inch,px is 1/96 of an inch and pc is 1/6 of an inch and pc is called picas*/
+.name_of_family_members , #result_person_name , #result_person_accuracy {
+color:purple;
+
+}
